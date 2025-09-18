@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rerkki/smartindustry.git"
+    "url": "git+https://github.com/jaetaskinen/smartindustry.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rerkki/smartindustry/issues"
+    "url": "https://github.com/jaetaskinen/smartindustry/issues"
   },
-  "homepage": "https://github.com/rerkki/smartindustry#readme",
+  "homepage": "https://github.com/jaetaskinen/smartindustry#readme",
   "description": "",
   "dependencies": {
     "mongodb": "^6.19.0",
